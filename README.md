@@ -1,6 +1,6 @@
 # 3D Printing with Fusion 360
 
-world of 3D printing and design using Autodesk Fusion 360. Whether you're a beginner looking to learn Fusion 360, an enthusiast eager to explore 3D printing projects, or an expert in the field, this repository has something for everyone. Discover learning resources, dive into Fusion 360 project files, access essential Cura files for slicing, and obtain Gcode files ready for printing.
+Welcome to the world of 3D printing and design using Autodesk Fusion 360. Whether you're a beginner looking to learn Fusion 360, an enthusiast eager to explore 3D printing projects, or an expert in the field, this repository has something for everyone. Discover learning resources, dive into Fusion 360 project files, access essential Cura files for slicing, and obtain Gcode files ready for printing.
 
 Explore, create, and innovate in the 3D printing realm with the resources and files provided here. Share your designs, collaborate with the community, and unlock the potential of 3D printing with Fusion 360.
 
